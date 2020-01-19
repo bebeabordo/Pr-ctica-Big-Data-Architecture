@@ -37,3 +37,7 @@ fichero en el directorio, el cual se enviará como adjunto a un listado de direc
 electrónico.
 
 Una vez ejecutad el proceso se apaga manualmente el cluster.
+
+## Diagrama
+
+https://drive.google.com/drive/folders/1hKZRk4af_BjH4fUvPf_OkVdZScJSUoVW
